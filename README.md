@@ -26,9 +26,9 @@
             - ln -s /etc/machine-id /var/lib/dbus/machine-id เพื่อ link เชื่อมต่อกับ machine-id
             - reboot เพื่อรี ip ใหม่
             - หลังเปลี่ยน ip clone1
-              ![clone summary1](https://user-images.githubusercontent.com/119097660/206990489-4c7e5fdc-0ebc-4848-8097-9ff66c473168.png)
+              ![image](https://user-images.githubusercontent.com/117457958/207247626-83228b36-15a4-4913-8c34-918f76c37b68.png)
             - หลังเปลี่ยน ip clone2
-              ![clone summary2](https://user-images.githubusercontent.com/119097660/206990515-facba323-a7f5-4538-9911-38dc16157b27.png)
+              ![image](https://user-images.githubusercontent.com/117457958/207247778-d61f8934-738d-4b58-b7a7-470fc346855a.png)
  
 2) create vm from other os
    - Create VM จากนั้นทำการตั้งค่าที่กำหนดโดยระบบปฏิบัติการที่เลือกใช้คือ Kali
