@@ -33,9 +33,9 @@
 2) create vm from other os
    - Create VM จากนั้นทำการตั้งค่าที่กำหนดโดยระบบปฏิบัติการที่เลือกใช้คือ Linux Mint
       - Summary ของ Linux Mint
-        ![image](https://user-images.githubusercontent.com/117457958/207248677-b639b0ad-b7f5-423d-ade8-aba5b3c4ef9a.png)
+        ![image](https://user-images.githubusercontent.com/117457958/207251300-bb701464-f28b-41a3-b44d-512b11256982.png)
       - หน้า console screen
-        ![image](https://user-images.githubusercontent.com/117457958/207251300-bb701464-f28b-41a3-b44d-512b11256982.png)  
+        [![image](https://user-images.githubusercontent.com/117457958/207251300-bb701464-f28b-41a3-b44d-512b11256982.png)](https://github.com/nantawatCharoenrat/SPCN-011/issues/7#issue-1493539422)  
 
 3) create vm from other os
    - Click create container template เพื่อสร้าง CT
