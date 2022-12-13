@@ -18,7 +18,7 @@
       ![image](https://user-images.githubusercontent.com/117457958/207246162-80db51e3-06a4-4612-9ce4-f3f0d73dc0b9.png)
    - ทำการsetระบบโดย
         - date เพื่อเช็คtimezone
-          ![console screen](https://user-images.githubusercontent.com/119097660/206989740-3905d3eb-0d5a-4f1b-a80d-c582d29bb443.png)  
+          ![image](https://user-images.githubusercontent.com/117457958/207246791-4c5e1549-ce47-4935-952b-6e9f3d2b3e4e.png)  
         - ทำการเปลี่ยนipของระบบเพื่อไม่ให้ipซ้ำกันโดย
             - sudo -i
             - rm /var/lib/dbus/machine-id
