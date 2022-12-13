@@ -35,7 +35,7 @@
       - Summary ของ Linux Mint
         ![image](https://user-images.githubusercontent.com/117457958/207251300-bb701464-f28b-41a3-b44d-512b11256982.png)
       - หน้า console screen
-        [![image](https://user-images.githubusercontent.com/117457958/207251300-bb701464-f28b-41a3-b44d-512b11256982.png)](https://github.com/nantawatCharoenrat/SPCN-011/issues/7#issue-1493539422)  
+        ![image](https://user-images.githubusercontent.com/117457958/207248904-fa734360-f55c-472a-be04-c08ad74ab706.png)  
 
 3) create vm from other os
    - Click create container template เพื่อสร้าง CT
