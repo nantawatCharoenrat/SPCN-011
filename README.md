@@ -42,4 +42,4 @@
       - Summary 
         ![image](https://user-images.githubusercontent.com/117457958/207252466-561ea207-78eb-4a80-b497-e401673193f3.png)
       - console screen 
-        ![watch screen  ct](https://user-images.githubusercontent.com/119097660/206991066-895b52ea-7bcc-41a7-a1da-aa7b5cf7c098.png)
+        ![image](https://user-images.githubusercontent.com/117457958/207255500-a9f123b4-3ebf-4886-8919-1ae0b134cee1.png)
